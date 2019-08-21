@@ -1,0 +1,26 @@
+<table>
+  <thead>
+    <tr>
+      <th scope="col" colspan="3">{{ include.module.title }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for day in include.module.days %}
+    <tr>
+      <td>{{ day.date | date: '%a %m/%d' }}</td>
+      <td><b>{{ day.topic | markdownify | remove: '<p>' | remove: '</p>' }}</b> <br>
+      <a href='{{day.slides}}'>slides</a> 
+      <a href='{{day.code}}'>code</a> 
+      <a href='{{day.webcast}}'>webcast</a>&nbsp;</td>
+      <td>{{ day.description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
+    </tr>
+    {% endfor %}
+    {% if include.module.content %}
+    <tr>
+      <td colspan="3">
+        {{ include.module.content }}
+      </td>
+    </tr>
+    {% endif %}
+  </tbody>
+</table>
