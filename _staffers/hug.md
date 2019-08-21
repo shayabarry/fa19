@@ -3,7 +3,7 @@ name: Josh Hug
 role: Instructor
 email: hug@cs.berkeley.edu
 website: 
-photo: https://www2.eecs.berkeley.edu/Faculty/Photos/Fullsize/joshhug.jpg
+photo: http://ds100.org/fa19/resources/assets/staff_pics/hug.png
 ---
 
 TODO: Make picture a circle, not an oval.
