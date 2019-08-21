@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 nav_order: 1
-description: An embedded Google Calendar displaying the weekly event schedule.
+description: A week-to-week description of the content covered in the course.
 ---
 
 # Syllabus
