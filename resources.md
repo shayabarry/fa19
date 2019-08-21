@@ -23,15 +23,19 @@ description: Past exams and other relevant material to aid you in the course.
 
 ## Other Resources
 
-We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/su19).
+We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa19).
 
 Here is a collection of resources that will help you learn more about various concepts and skills covered in the class. Learning by reading is a key part of being a well rounded data scientist. We will not assign mandatory reading but instead encourage you to look at these _and other_ materials. If you find something helpful, post it on Piazza, and consider contributing it to the course website.
 
 You can send us changes to the course website by
 [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull
 request](https://help.github.com/articles/about-pull-requests/) to the [course
-website github repository](https://github.com/DS-100/su19). You will then
-become part of the history of the Data 100 class at Berkeley.
+website github repository](https://github.com/DS-100/fa19). You will then
+become part of the history of Data 100 at Berkeley.
+
+## Local Setup
+
+Click [here]({{ site.baseurl }}/setup) to read our guide on how to set up our development environment locally (as an alternative to using DataHub).
 
 ## Web References
 
@@ -58,12 +62,12 @@ As a data scientist you will often need to search for information on various lib
   - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) A set of lessons providing an overview of the Pandas library.
   - [Python for Data Science](http://wavedatalab.github.io/datawithpython/index.html) Another set of notebook demonstrating Pandas functionality.
 
-* **Git:**
+<!-- * **Git:**
   - [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control): A tutorial on version control and Git.
   - [Git Reference](http://gitref.org): A condense version of git instructions.
   - [Understanding the Git Flow](https://guides.github.com/introduction/flow/): This will give you a better idea of how Git projects work.
   - [Learning about Branches](http://learngitbranching.js.org): This is a perhaps overly interactive tutorial that some people might find helpful.
-  - [Explaining Git with D3](http://onlywei.github.io/explain-git-with-d3/)
+  - [Explaining Git with D3](http://onlywei.github.io/explain-git-with-d3/) -->
 
 ## Books
 

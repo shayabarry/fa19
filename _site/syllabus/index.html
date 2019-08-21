@@ -45,12 +45,14 @@
 <body>
   <div class="page-wrap">
     <div class="side-bar">
-      <h1 class="site-title"><a href="/fa19/">Data 100</a></h1>
+      <h1 class="site-title">Data 100<br></h1>
       <button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button>
       <div class="navigation main-nav js-main-nav">
         <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
     
+    
+      
     
       
     
@@ -116,16 +118,6 @@
         
       
     
-      
-        
-          <li class="navigation-list-item">
-            
-            <a href="http://localhost:4000/fa19/setup/" class="navigation-list-link">Local Setup</a>
-            
-          </li>
-        
-      
-    
   </ul>
 </nav>
 
@@ -163,7 +155,8 @@
       
     </div>
     <div class="main-content-wrap js-main-content" tabindex="0">
-      <header class="page-header">
+    <!-- the below is all for the search and auxillary links, which we won't use -->
+<!--       <header class="page-header">
         <div class="main-content">
           
           <div class="search js-search">
@@ -176,7 +169,7 @@
           
           
         </div>
-      </header>
+      </header> -->
       <main class="main-content">
         
           
@@ -184,191 +177,243 @@
         <div id="main-content" class="page-content" role="main">
           <h1 id="syllabus">Syllabus</h1>
 
-<!-- 
-<section class="module">
+<p><strong>Please note:</strong> This schedule is still tentative, and is likely to change.</p>
+
+<div class="module">
   <h3 class="module-header">Week 1</h3>
-  <div class="module-body">
-    <ul>
-  <li><a href="#">Lab 1: Pre-requisites and matplotlib</a></li>
-  <li><a href="#">Homework 1: Pre-requisites and matplotlib (due 9/2)</a></li>
-</ul>
-
-  </div>
-  <div class="module-deck">
+  
+  <dl class="module-days">
     
-    <div class="module">
-      <div class="module-header">
-        Course Overview, Data Design
-
-      </div>
-      <div class="module-body">
-        <span class="module-date">8/29</span>
-        <ul>
-  <li><a href="https://www.textbook.ds100.org/ch/01/lifecycle_intro.html">Textbook: Data Science Life Cycle</a></li>
-  <li><a href="https://www.textbook.ds100.org/ch/02/design_intro.html">Textbook: Data Design</a></li>
-</ul>
-
-      </div>
-    </div>
+    <dt class="module-day main">Aug 28</dt>
     
-  </div>
-</section>
+    <dd class="module-event main"><p><strong class="label">Discussion</strong> <a href="#">Discussion 0</a></p>
+ <p>Solutions</p>
+</dd>
+    
+    
+    <dt class="module-day main">Aug 29</dt>
+    
+    <dd class="module-event main"><p><a href="#">Course Overview</a> (<a href="#">code</a>) (<a href="#">webcast</a>)</p>
+ <p><a href="https://www.textbook.ds100.org/ch/01/lifecycle_intro.html">Ch. 1.1</a>, <a href="https://www.textbook.ds100.org/ch/02/design_intro.html">Ch. 1.2</a></p>
+</dd>
+    
+    <dd class="module-event"><p><a href="#">Homework 0</a> released</p>
+ 
+</dd>
+    
+    
+  </dl>
+  
+  
+  
+</div>
 
-
-<section class="module">
+<div class="module">
   <h3 class="module-header">Week 2</h3>
-  <div class="module-body">
-    <ul>
-  <li><a href="#">Section 2: Linked Lists</a> (<a href="#">Solutions</a>)</li>
-  <li><a href="#">Lab 2: Resizing Arrays</a></li>
-  <li><a href="#">Homework 2: Basic Data Structures</a></li>
-</ul>
-
-  </div>
-  <div class="module-deck">
+  
+  <dl class="module-days">
     
-    <div class="module">
-      <div class="module-header">
-        <a href="#">Linked Lists &amp; Encapsulation</a>
-
-      </div>
-      <div class="module-body">
-        <span class="module-date">4/8</span>
-        <p><a href="#">3.1</a>, <a href="#">2.2</a>, <a href="#">2.3</a></p>
-
-      </div>
-    </div>
+    <dt class="module-day main">Sep  2</dt>
     
-    <div class="module">
-      <div class="module-header">
-        <a href="#">Resizing Arrays</a>
-
-      </div>
-      <div class="module-body">
-        <span class="module-date">4/10</span>
-        <p><a href="#">2.4</a>, <a href="#">2.5</a></p>
-
-      </div>
-    </div>
-    
-    <div class="module">
-      <div class="module-header">
-        <a href="#">Runtime Analysis</a>
-
-      </div>
-      <div class="module-body">
-        <span class="module-date">4/12</span>
-        <p><a href="#">8.1</a>, <a href="#">8.2</a>, <a href="#">8.3</a>, <a href="#">8.4</a></p>
-
-      </div>
-    </div>
-    
-  </div>
-</section>
-
- -->
-
-<hr />
-
-<!-- Course materials are defined in the `_modules` directory. Each module is rendered here according to their filename.
-
-Modules are rendered according to the layout file defined in `_layouts/module.html`. Edit the HTML to modify the layout.
- -->
-<!-- ## Table Calendar
-
-We can also render modules as HTML tables. Modify `_includes/module_table.html` to make changes. -->
-
-<table>
-  <thead>
-    <tr>
-      <th scope="col" colspan="3">Week 1</th>
-    </tr>
-  </thead>
-  <tbody>
-    
-    <tr>
-      <td>Thu 08/29</td>
-      <td><b>Course Overview, Data Design
-</b> <br />
-      <a href="http://google.com">slides</a> 
-      <a href="http://eecs.berkeley.edu">code</a> 
-      <a href="http://youtube.com">webcast</a>&nbsp;</td>
-      <td><ul>
-  <li><a href="https://www.textbook.ds100.org/ch/01/lifecycle_intro.html">Textbook: Data Science Life Cycle</a></li>
-  <li><a href="https://www.textbook.ds100.org/ch/02/design_intro.html">Textbook: Data Design</a></li>
-</ul>
-</td>
-    </tr>
+    <dd class="module-event main"><p><strong class="label">Lab</strong> Lab 1</p>
+ 
+</dd>
     
     
-    <tr>
-      <td colspan="3">
-        <ul>
-  <li><a href="#">Lab 1: Pre-requisites and matplotlib</a></li>
-  <li><a href="#">Homework 1: Pre-requisites and matplotlib (due 9/2)</a></li>
-</ul>
+    <dt class="module-day main">Sep  3</dt>
+    
+    <dd class="module-event main"><p><a href="#">Probability and Data Design I</a></p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep  4</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Discussion</strong> Discussion 1</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep  5</dt>
+    
+    <dd class="module-event main"><p><a href="#">Probability and Data Design II</a></p>
+ 
+</dd>
+    
+    
+  </dl>
+  
+  
+  
+</div>
 
-      </td>
-    </tr>
+<div class="module">
+  <h3 class="module-header">Week 3</h3>
+  
+  <dl class="module-days">
     
-  </tbody>
-</table>
+    <dt class="module-day main">Sep  9</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Lab</strong> Lab / Discussion 2</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep 10</dt>
+    
+    <dd class="module-event main"><p><a href="#">Pandas I</a></p>
+ <p><a href="https://www.textbook.ds100.org/ch/03/pandas_intro.html">Ch. 3</a></p>
+</dd>
+    
+    <dd class="module-event"><p>Homework 0 due, Homework 1 released</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep 11</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Discussion</strong> Lab / Discussion 2</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep 12</dt>
+    
+    <dd class="module-event main"><p><a href="#">Pandas II</a></p>
+ <p><a href="https://www.textbook.ds100.org/ch/03/pandas_intro.html">Ch. 3</a></p>
+</dd>
+    
+    
+  </dl>
+  
+  
+  
+</div>
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col" colspan="3">Week 2</th>
-    </tr>
-  </thead>
-  <tbody>
+<div class="module">
+  <h3 class="module-header">Week 4</h3>
+  
+  <dl class="module-days">
     
-    <tr>
-      <td>Mon 04/08</td>
-      <td><b><a href="#">Linked Lists &amp; Encapsulation</a>
-</b> <br />
-      <a href="">slides</a> 
-      <a href="">code</a> 
-      <a href="">webcast</a>&nbsp;</td>
-      <td><a href="#">3.1</a>, <a href="#">2.2</a>, <a href="#">2.3</a>
-</td>
-    </tr>
+    <dt class="module-day main">Sep 16</dt>
     
-    <tr>
-      <td>Wed 04/10</td>
-      <td><b><a href="#">Resizing Arrays</a>
-</b> <br />
-      <a href="">slides</a> 
-      <a href="">code</a> 
-      <a href="">webcast</a>&nbsp;</td>
-      <td><a href="#">2.4</a>, <a href="#">2.5</a>
-</td>
-    </tr>
-    
-    <tr>
-      <td>Fri 04/12</td>
-      <td><b><a href="#">Runtime Analysis</a>
-</b> <br />
-      <a href="">slides</a> 
-      <a href="">code</a> 
-      <a href="">webcast</a>&nbsp;</td>
-      <td><a href="#">8.1</a>, <a href="#">8.2</a>, <a href="#">8.3</a>, <a href="#">8.4</a>
-</td>
-    </tr>
+    <dd class="module-event main"><p><strong class="label">Lab</strong> Lab 3</p>
+ 
+</dd>
     
     
-    <tr>
-      <td colspan="3">
-        <ul>
-  <li><a href="#">Section 2: Linked Lists</a> (<a href="#">Solutions</a>)</li>
-  <li><a href="#">Lab 2: Resizing Arrays</a></li>
-  <li><a href="#">Homework 2: Basic Data Structures</a></li>
-</ul>
+    <dt class="module-day main">Sep 17</dt>
+    
+    <dd class="module-event main"><p><a href="#">Data Cleaning</a></p>
+ <p><a href="https://www.textbook.ds100.org/ch/03/pandas_intro.html">Ch. 3</a></p>
+</dd>
+    
+    
+    <dt class="module-day main">Sep 18</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Discussion</strong> Discussion 3</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep 19</dt>
+    
+    <dd class="module-event main"><p><a href="#">Visualization I</a></p>
+ <p><a href="https://www.textbook.ds100.org/ch/06/viz_intro.html">Ch. 6</a></p>
+</dd>
+    
+    <dd class="module-event"><p>Homework 1 due, Homework 2 released</p>
+ 
+</dd>
+    
+    
+  </dl>
+  
+  
+  
+</div>
 
-      </td>
-    </tr>
+<div class="module">
+  <h3 class="module-header">Week 5</h3>
+  
+  <dl class="module-days">
     
-  </tbody>
-</table>
+    <dt class="module-day main">Sep 23</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Lab</strong> Lab 4</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep 24</dt>
+    
+    <dd class="module-event main"><p><a href="#">Visualization II</a></p>
+ <p><a href="https://www.textbook.ds100.org/ch/06/viz_intro.html">Ch. 6</a></p>
+</dd>
+    
+    
+    <dt class="module-day main">Sep 25</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Discussion</strong> Discussion 4</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Sep 26</dt>
+    
+    <dd class="module-event main"><p><a href="#">EDA, EDA with Text</a></p>
+ <p><a href="https://www.textbook.ds100.org/ch/04/eda_intro.html">Ch. 4</a>, <a href="https://www.textbook.ds100.org/ch/05/cleaning_structure.html">Ch. 5.3-5.7</a>, <a href="https://www.textbook.ds100.org/ch/08/text_intro.html">Ch. 8</a></p>
+</dd>
+    
+    
+  </dl>
+  
+  
+  
+</div>
+
+<div class="module">
+  <h3 class="module-header">Week 6</h3>
+  
+  <dl class="module-days">
+    
+    <dt class="module-day main">Sep 30</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Lab</strong> Lab 5</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Oct  1</dt>
+    
+    <dd class="module-event main"><p><a href="#">Case Study</a></p>
+ 
+</dd>
+    
+    <dd class="module-event"><p>Homework 2 due, Homework 3 released</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Oct  2</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Discussion</strong> Discussion 5</p>
+ 
+</dd>
+    
+    
+    <dt class="module-day main">Oct  3</dt>
+    
+    <dd class="module-event main"><p><strong class="label">Exam</strong> Midterm 1</p>
+ 
+</dd>
+    
+    
+  </dl>
+  
+  
+  
+</div>
 
 
 

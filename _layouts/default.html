@@ -4,7 +4,7 @@
 <body>
   <div class="page-wrap">
     <div class="side-bar">
-      <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+      <h1 class="site-title">{{ site.title }}<br></h1>
       <button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button>
       <div class="navigation main-nav js-main-nav">
         {% include nav.html %}
@@ -30,7 +30,8 @@
       {% endif %}
     </div>
     <div class="main-content-wrap js-main-content" tabindex="0">
-      <header class="page-header">
+    <!-- the below is all for the search and auxillary links, which we won't use -->
+<!--       <header class="page-header">
         <div class="main-content">
           {% if site.search_enabled %}
           <div class="search js-search">
@@ -51,7 +52,7 @@
           </nav>
           {% endif %}
         </div>
-      </header>
+      </header> -->
       <main class="main-content">
         {% unless page.url == "/" %}
           {% if page.parent %}

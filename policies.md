@@ -9,7 +9,6 @@ description: >-
 # Policies
 {:.no_toc}
 
-**This is all tentative!**
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,12 +20,14 @@ description: >-
 
 ## Grading
 
-5% (or 0%) Attendance
-15% Labs
-20% Homeworks
-15% Projects
-15% (or 17.5%) Midterm
-30% (or 32.5%) Final
+- TBD% Labs
+- TBD% Homeworks
+- TBD% Projects
+- TBD% Midterm 1
+- TBD% Midterm 2
+- TBD% Final
+
+**Most of the grading information is currently incorrect. This warning will be removed once it's fixed.**
 
 There will be 3 projects and about 7 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs scores and two lowest homework scores will be dropped.
 

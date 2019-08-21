@@ -1,29 +1,16 @@
 ---
 title: Week 2
 days:
-  - topic: >-
-      [Linked Lists & Encapsulation](#)
-    date: 2019-04-08
-    description: >-
-      [3.1](#),
-      [2.2](#),
-      [2.3](#)
-  - topic: >-
-      [Resizing Arrays](#)
-    date: 2019-04-10
-    description: >-
-      [2.4](#),
-      [2.5](#)
-  - topic: >-
-      [Runtime Analysis](#)
-    date: 2019-04-12
-    description: >-
-      [8.1](#),
-      [8.2](#),
-      [8.3](#),
-      [8.4](#)
+  - date: 2019-09-02
+    events:
+      "**Lab**{: .label } Lab 1":
+  - date: 2019-09-03
+    events:
+      "[Probability and Data Design I](#)":
+  - date: 2019-09-04
+    events:
+      "**Discussion**{: .label } Discussion 1":
+  - date: 2019-09-05
+    events:
+      "[Probability and Data Design II](#)":
 ---
-
-- [Section 2: Linked Lists](#) ([Solutions](#))
-- [Lab 2: Resizing Arrays](#)
-- [Homework 2: Basic Data Structures](#)

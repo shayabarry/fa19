@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Local Setup
-nav_order: 6
+nav_exclude: true
 description: Instructions to set up your data science environment locally.
 ---
 
 # Local Setup
-
-**TODO**: Fix pictures. Also, should this have its own tab?
 
 We will still be using datahub as our primary computing environment. This page
 serves as a guide for alternative environment setup.
@@ -80,12 +78,12 @@ scratch.
    Leave all the options as default (install for all users, in the default location).
    Make sure both of these checkboxes are checked:
 
-   ![windowsconda01](assets/local_setup/windows_conda01.PNG)
+   ![windowsconda01](../resources/assets/local_setup/windows_conda01.PNG)
 
 1) Verify that the installation is working by starting the Anaconda Prompt (you
    should be able to start it from the Start Menu) and typing `python`:
 
-   ![windowsconda02](assets/local_setup/windows_conda02.PNG)
+   ![windowsconda02](../resources/assets/local_setup/windows_conda02.PNG)
 
    Notice how the `python` prompt shows that it is running from Anaconda. Now
    you have `conda` installed!
@@ -173,7 +171,7 @@ These instructions are the same for OSX, Windows, and Linux.
 To work on assignments, you should fetch the assignment on datahub, navigate to the assignment folder and click on
 the download icon on the top right:
 
-![downloadhw](assets/local_setup/download_hw.PNG)
+![downloadhw](../resources/assets/local_setup/download_hw.PNG)
 
 Then you can unzip the files into a folder of your choosing.
 
@@ -196,7 +194,7 @@ Make sure to **always** work in the `data100` conda environment when you are usi
 
 You can tell if you are correct environment if your terminal looks something like:
 
-![conda-env](assets/local_setup/data100_environment.PNG)
+![conda-env](../resources/assets/local_setup/data100_environment.PNG)
 
 Additionally,
 
@@ -221,7 +219,7 @@ Which should then no longer display the `data100` environment.
 Submissions will still be handled via datahub. To upload your work, navigate to the appropriate assignment
 folder on datahub and click on the upload button on the top right. Remember to validate, submit, and upload to Gradescope (for homeworks and projects).
 
-![uploadhw](assets/local_setup/upload_hw.PNG)
+![uploadhw](../resources/assets/local_setup/upload_hw.PNG)
 
 ## FAQ
 
@@ -229,7 +227,7 @@ folder on datahub and click on the upload button on the top right. Remember to v
 
 If you had an older version of Anaconda installed (perhaps for another class), you may see the following message.
 
-![conda_activate](assets/local_setup/conda_activate.png)
+![conda_activate](../resources/assets/local_setup/conda_activate.png)
 
 Follow the instructions in the prompt to:
 

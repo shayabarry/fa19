@@ -45,12 +45,14 @@
 <body>
   <div class="page-wrap">
     <div class="side-bar">
-      <h1 class="site-title"><a href="/fa19/">Data 100</a></h1>
+      <h1 class="site-title">Data 100<br></h1>
       <button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button>
       <div class="navigation main-nav js-main-nav">
         <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
     
+    
+      
     
       
     
@@ -116,16 +118,6 @@
         
       
     
-      
-        
-          <li class="navigation-list-item active">
-            
-            <a href="http://localhost:4000/fa19/setup/" class="navigation-list-link active">Local Setup</a>
-            
-          </li>
-        
-      
-    
   </ul>
 </nav>
 
@@ -163,7 +155,8 @@
       
     </div>
     <div class="main-content-wrap js-main-content" tabindex="0">
-      <header class="page-header">
+    <!-- the below is all for the search and auxillary links, which we won't use -->
+<!--       <header class="page-header">
         <div class="main-content">
           
           <div class="search js-search">
@@ -176,15 +169,13 @@
           
           
         </div>
-      </header>
+      </header> -->
       <main class="main-content">
         
           
         
         <div id="main-content" class="page-content" role="main">
           <h1 id="local-setup">Local Setup</h1>
-
-<p><strong>TODO</strong>: Fix pictures. Also, should this have its own tab?</p>
 
 <p>We will still be using datahub as our primary computing environment. This page
 serves as a guide for alternative environment setup.</p>
@@ -274,14 +265,14 @@ if you are unsure.</p>
 Leave all the options as default (install for all users, in the default location).
 Make sure both of these checkboxes are checked:</p>
 
-    <p><img src="assets/local_setup/windows_conda01.PNG" alt="windowsconda01" /></p>
+    <p><img src="../resources/assets/local_setup/windows_conda01.PNG" alt="windowsconda01" /></p>
   </li>
 </ol>
 
 <p>1) Verify that the installation is working by starting the Anaconda Prompt (you
    should be able to start it from the Start Menu) and typing <code class="highlighter-rouge">python</code>:</p>
 
-<p><img src="assets/local_setup/windows_conda02.PNG" alt="windowsconda02" /></p>
+<p><img src="../resources/assets/local_setup/windows_conda02.PNG" alt="windowsconda02" /></p>
 
 <p>Notice how the <code class="highlighter-rouge">python</code> prompt shows that it is running from Anaconda. Now
    you have <code class="highlighter-rouge">conda</code> installed!</p>
@@ -389,7 +380,7 @@ conda list
 <p>To work on assignments, you should fetch the assignment on datahub, navigate to the assignment folder and click on
 the download icon on the top right:</p>
 
-<p><img src="assets/local_setup/download_hw.PNG" alt="downloadhw" /></p>
+<p><img src="../resources/assets/local_setup/download_hw.PNG" alt="downloadhw" /></p>
 
 <p>Then you can unzip the files into a folder of your choosing.</p>
 
@@ -413,7 +404,7 @@ jupyter notebook
 
 <p>You can tell if you are correct environment if your terminal looks something like:</p>
 
-<p><img src="assets/local_setup/data100_environment.PNG" alt="conda-env" /></p>
+<p><img src="../resources/assets/local_setup/data100_environment.PNG" alt="conda-env" /></p>
 
 <p>Additionally,</p>
 
@@ -441,7 +432,7 @@ jupyter notebook
 <p>Submissions will still be handled via datahub. To upload your work, navigate to the appropriate assignment
 folder on datahub and click on the upload button on the top right. Remember to validate, submit, and upload to Gradescope (for homeworks and projects).</p>
 
-<p><img src="assets/local_setup/upload_hw.PNG" alt="uploadhw" /></p>
+<p><img src="../resources/assets/local_setup/upload_hw.PNG" alt="uploadhw" /></p>
 
 <h2 id="faq">FAQ</h2>
 
@@ -449,7 +440,7 @@ folder on datahub and click on the upload button on the top right. Remember to v
 
 <p>If you had an older version of Anaconda installed (perhaps for another class), you may see the following message.</p>
 
-<p><img src="assets/local_setup/conda_activate.png" alt="conda_activate" /></p>
+<p><img src="../resources/assets/local_setup/conda_activate.png" alt="conda_activate" /></p>
 
 <p>Follow the instructions in the prompt to:</p>
 

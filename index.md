@@ -29,10 +29,10 @@ Data 100, Fall 2019
 
 - When: Tuesdays and Thursdays, 9:30am-11:00am
 - Where: 150 Wheeler
-- What: See the lecture schedule (TODO: add hyperlink)
+- What: See the [syllabus](syllabus)
 - News: We will post updates about the class on Piazza.
 
-This class is listed as STAT C100.
+This class is listed as STAT C100 (undergraduate) and STAT C200C (graduate).
 
 ## Goals
 
@@ -44,9 +44,9 @@ This class is listed as STAT C100.
 
 While we are working to make this class widely accessible we currently require the following (or equivalent) prerequisites:
 
-- **Foundations of Data Science**: Data8 covers much of the material in DS100 but at an introductory level. Data8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
-- **Computing**: _The Structure and Interpretation of Computer Programs_ (CS61A) or _Computational Structures in Data Science_ (CS88). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable DS100 to focus more on the concepts in Data Science and less on the details of programming in python.
-- **Math**: _Linear Algebra_ (Math 54, EE 16a, or Stat89a): We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms. This may be satisfied concurrently to DS100.
+- **Foundations of Data Science**: [Data8](http://data8.org) covers much of the material in DS100 but at an introductory level. Data8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
+- **Computing**: _The Structure and Interpretation of Computer Programs_ ([CS 61A](http://cs61a.org)) or _Computational Structures in Data Science_ ([CS 88](https://cs88-website.github.io)). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable DS100 to focus more on the concepts in Data Science and less on the details of programming in python.
+- **Math**: _Linear Algebra_ (Math 54, [EE 16a](http://ee16a.org), or Stat89a): We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms. This may be satisfied concurrently to DS100.
 
 ## About Data 100
 
