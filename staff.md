@@ -7,8 +7,6 @@ description: A listing of all the course staff members.
 
 # Staff
 
-**TODO**: Add everyone else, and fix pictures.
-
 ## Instructors
 
 <div class="role">

@@ -20,9 +20,9 @@ Data 100, Fall 2019
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-<a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
+<!-- <a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
   All Announcements
-</a>
+</a> -->
 {% endif %}
 
 ## Important Information
