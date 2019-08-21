@@ -1,5 +1,5 @@
 ---
-name: Tony Hsu
+name: Kana Mishra
 role: Teaching Assistant
 email: kana@berkeley.edu
 photo: http://ds100.org/fa19/resources/assets/staff_pics/kana_mishra.jpg
