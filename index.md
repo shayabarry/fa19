@@ -30,7 +30,7 @@ Data 100, Fall 2019
 - When: Tuesdays and Thursdays, 9:30am-11:00am
 - Where: 150 Wheeler
 - What: See the [syllabus](syllabus)
-- News: We will post updates about the class on Piazza.
+- News: We will post updates about the class on [Piazza](piazza.com/berkeley/fall2019/data100).
 
 This class is listed as STAT C100 (undergraduate) and STAT C200C (graduate).
 
