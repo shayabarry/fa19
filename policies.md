@@ -18,6 +18,8 @@ description: >-
 
 ---
 
+**All of the information on this page is subject to change. We will remove this warning once everything here is confirmed.**
+
 ## Grading
 
 Currently TBD, though we will have two midterms. Midterm 1 is tentatively scheduled for October 3rd, in class. 
