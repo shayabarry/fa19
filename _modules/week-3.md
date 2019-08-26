@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2019-09-09
     events:
-      "**Lab**{: .label } Lab / Discussion 2":
+      "**Lab**{: .label } Lab / Discussion 3":
   - date: 2019-09-10
     events:
       "[Pandas I](#)":
@@ -11,7 +11,7 @@ days:
       "Homework 0 due, Homework 1 released":
   - date: 2019-09-11
     events:
-      "**Discussion**{: .label } Lab / Discussion 2":
+      "**Discussion**{: .label } Lab / Discussion 3":
   - date: 2019-09-12
     events:
       "[Pandas II](#)":

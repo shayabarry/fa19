@@ -2,40 +2,25 @@
 layout: page
 title: Calendar
 nav_order: 2
-description: The weekly event schedule.
+description: An embedded Google Calendar displaying the weekly event schedule.
 ---
 
 # Calendar
 
-<!-- **Note:** This is not up-to-date
+<!-- <div id="fullcalendar"></div>
 
-Schedule data are defined as YAML [data files](https://jekyllrb.com/docs/datafiles/) following the example format in `_data/schedule`.
-
-Multiple schedules can be rendered on a page, each with their own events and hour range.
-
-## Weekly Schedule
-
-{% include schedule.html data=site.data.schedule.weekly interval=30 row_height=40 %}
-
-## Office Hours Schedule
-
-{% include schedule.html data=site.data.schedule.office-hours interval=30 row_height=40 %}
- -->
-
- <div id="fullcalendar"></div>
-
-<link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/core/main.css">
-<link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/timegrid/main.css">
-<script src="https://unpkg.com/@fullcalendar/core/main.min.js"></script>
+<!-- <link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/core/main.css">
+<link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/timegrid/main.css"> -->
+<!-- <script src="https://unpkg.com/@fullcalendar/core/main.min.js"></script>
 <script src="https://unpkg.com/@fullcalendar/daygrid/main.min.js"></script>
 <script src="https://unpkg.com/@fullcalendar/timegrid/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/google-calendar/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/google-calendar/main.min.js"></script> -->
 
 <style>
 .fc table {
   margin-bottom: 0;
 }
-</style>
+</style><!-- 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   new FullCalendar.Calendar(document.getElementById('fullcalendar'), {
@@ -54,14 +39,21 @@ document.addEventListener('DOMContentLoaded', function() {
     // THIS KEY WON'T WORK IN PRODUCTION!!!
     // To make your own Google API key, follow the directions here:
     // http://fullcalendar.io/docs/google_calendar/
-    googleCalendarApiKey: 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE',
+    googleCalendarApiKey: 'AIzaSyDRIz3tmchcYjyh1o4VTLj1Y4ciIJDEyjg',
     // US Holidays
     eventSources: [
       {
-        googleCalendarId: 'en.usa#holiday@group.v.calendar.google.com',
-        className: 'holiday',
+        googleCalendarId: 'berkeley.edu_in9qvsg9rsv5r35la4oufrq2tk@group.calendar.google.com',
+        className: 'data 100',
       },
     ],
   }).render();
 });
 </script>
+ -->
+ 
+<!-- <script src="../assets/js/calendar.js"></script>
+<script src="../assets/js/gcal.js"></script> -->
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X2luOXF2c2c5cnN2NXIzNWxhNG91ZnJxMnRrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

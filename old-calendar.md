@@ -1,15 +1,28 @@
 ---
 layout: page
-title: Google Calendar
+title: Calendar
 nav_exclude: true
-description: An embedded Google Calendar displaying the weekly event schedule.
+description: The weekly event schedule.
 ---
 
-# Google Calendar
+# Calendar
 
-**Warning**: This page is not optimized for performance. Use the `schedule` include instead for faster page loads. See the [Schedule]({{ site.baseurl }}/schedule) page for more information.
+<!-- **Note:** This is not up-to-date
 
-<div id="fullcalendar"></div>
+Schedule data are defined as YAML [data files](https://jekyllrb.com/docs/datafiles/) following the example format in `_data/schedule`.
+
+Multiple schedules can be rendered on a page, each with their own events and hour range.
+
+## Weekly Schedule
+
+{% include schedule.html data=site.data.schedule.weekly interval=30 row_height=40 %}
+
+## Office Hours Schedule
+
+{% include schedule.html data=site.data.schedule.office-hours interval=30 row_height=40 %}
+ -->
+
+ <div id="fullcalendar"></div>
 
 <link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/core/main.css">
 <link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/timegrid/main.css">
