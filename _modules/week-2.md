@@ -3,7 +3,7 @@ title: Week 2
 days:
   - date: 2019-09-02
     events:
-      "**Lab**{: .label } Lab 2 (TBD)":
+      "**Lab**{: .label } No lab this week":
   - date: 2019-09-03
     events:
       "[Probability and Data Design I](#)":

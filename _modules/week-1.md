@@ -3,7 +3,7 @@ title: Week 1
 days:
   - date: 2019-08-28
     events:
-      "**Discussion**{: .label } Discussion 1":
+      "**Discussion**{: .label } No discussion this week":
   - date: 2019-08-29
     events:
       "[Course Overview](#) ([code](#)) ([webcast](#))":
