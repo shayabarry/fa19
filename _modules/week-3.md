@@ -6,7 +6,7 @@ days:
       "**Lab**{: .label } Lab / Discussion 3":
   - date: 2019-09-10
     events:
-      "[Pandas I](#)":
+      "Pandas I":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
       "Homework 1 due, Homework 2 released":
   - date: 2019-09-11
@@ -14,6 +14,6 @@ days:
       "**Discussion**{: .label } Lab / Discussion 3":
   - date: 2019-09-12
     events:
-      "[Pandas II](#)":
+      "Pandas II":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
 ---

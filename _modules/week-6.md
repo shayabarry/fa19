@@ -6,7 +6,7 @@ days:
       "**Lab**{: .label } Lab 6":
   - date: 2019-10-01
     events:
-      "[Case Study](#)":
+      "Case Study":
       "Homework 3 due, Homework 4 released":
   - date: 2019-10-02
     events:
