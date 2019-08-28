@@ -8,5 +8,5 @@ days:
     events:
       "[Course Overview](#) ([code](#)) ([webcast](#))":
         "[Ch. 1.1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html), [Ch. 1.2](https://www.textbook.ds100.org/ch/02/design_intro.html)"
-      "[Homework 0](#) released":
+      "[Homework 1](#) released":
 ---

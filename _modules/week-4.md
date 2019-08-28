@@ -15,5 +15,5 @@ days:
     events:
       "[Visualization I](#)":
         "[Ch. 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)"
-      "Homework 1 due, Homework 2 released":
+      "Homework 2 due, Homework 3 released":
 ---
