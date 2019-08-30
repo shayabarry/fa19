@@ -10,6 +10,7 @@ days:
   - date: 2019-09-04
     events:
       "**Discussion**{: .label } Discussion 2":
+      "Homework 1 due":
   - date: 2019-09-05
     events:
       "Probability and Data Design II":
