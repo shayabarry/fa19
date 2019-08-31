@@ -32,11 +32,13 @@ nav_links:
     Textbook:
       - 'http://textbook.ds100.org'
     Gradescope:
-      - 'https://gradescope.com'
+      - 'https://www.gradescope.com/courses/57158'
     Piazza:
-      - 'https://piazza.com'
+      - 'https://piazza.com/berkeley/fall2019/data100'
     Okpy:
       - 'https://okpy.org'
+    Office Hours Queue:
+      - 'http://oh.ds100.org'
 aux_links:
   # 'Kevin Lin':
   #   - 'https://kevinl.info'
