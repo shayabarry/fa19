@@ -8,7 +8,6 @@ days:
     events:
       "Pandas I":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
-      "Homework 2 released":
   - date: 2019-09-11
     events:
       "**Discussion**{: .label } Lab / Discussion 3":
