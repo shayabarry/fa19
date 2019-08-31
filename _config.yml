@@ -27,6 +27,8 @@ search_enabled: true
 permalink: pretty
 nav_links:
   Other:
+    Datahub:
+      - 'https://data100.datahub.berkeley.edu'
     Textbook:
       - 'http://textbook.ds100.org'
     Gradescope:
