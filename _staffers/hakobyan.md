@@ -8,4 +8,4 @@ lab: M 4-5PM, Cory 105; M 5-6PM, Cory 105
 oh: T 8-10AM
 ---
 
-Coming soon...
+Hi, come to my DISC/OH/LAB, I will tell my bio there.
