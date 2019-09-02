@@ -51,7 +51,7 @@
   "7": {
     "id": "7",
     "title": "Staff",
-    "content": "Staff Instructors {% assign instructors = site.staffers | where: &#39;role&#39;, &#39;Instructor&#39; %} {% for staffer in instructors %} {{ staffer }} {% endfor %} Teaching Assistants {% assign teaching_assistants = site.staffers | where: &#39;role&#39;, &#39;Teaching Assistant&#39; %} {% for staffer in teaching_assistants %} {{ staffer }} {% endfor %}",
+    "content": "Staff Jump to Instructors, Teaching Assistants, or Readers Instructors {% assign instructors = site.staffers | where: &#39;role&#39;, &#39;Instructor&#39; %} {% for staffer in instructors %} {{ staffer }} {% endfor %} Teaching Assistants {% assign teaching_assistants = site.staffers | where: &#39;role&#39;, &#39;Teaching Assistant&#39; %} {% for staffer in teaching_assistants %} {{ staffer }} {% endfor %} Readers {% assign readers = site.staffers | where: &#39;role&#39;, &#39;Reader&#39; %} {% for staffer in readers %} {{ staffer }} {% endfor %}",
     "url": "http://localhost:4000/fa19/staff/",
     "relUrl": "/staff/"
   },
