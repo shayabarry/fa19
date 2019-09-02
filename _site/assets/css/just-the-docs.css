@@ -227,14 +227,14 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 .side-bar { z-index: 100; display: flex; flex-wrap: wrap; padding-top: 1rem; padding-bottom: 1rem; background-color: #fff; }
 @media (min-width: 46.25rem) { .side-bar { flex-wrap: nowrap; position: absolute; width: 232px; height: 100%; padding-top: 4rem; padding-bottom: 0; flex-direction: column; border-right: 1px solid #eeebee; align-items: flex-end; } }
-@media (min-width: 70rem) { .side-bar { width: calc((100% - 1000px) / 2 + 216px); min-width: 216px; } }
+@media (min-width: 70rem) { .side-bar { width: calc((100% - 1116px) / 2 + 216px); min-width: 216px; } }
 
 @media (min-width: 46.25rem) { .main-content-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; min-height: 600px; -webkit-overflow-scrolling: touch; overflow-x: hidden; overflow-y: scroll; } }
 
 .main-content { padding-top: 1rem; padding-right: 1rem; padding-left: 1rem; }
 @media (min-width: 46.25rem) { .main-content { padding-right: 2rem; padding-left: 2rem; } }
-@media (min-width: 46.25rem) { .main-content { position: relative; max-width: 784px; padding-top: 2rem; padding-bottom: 2rem; padding-left: 3rem; margin-left: 216px; } }
-@media (min-width: 70rem) { .main-content { padding-left: 2rem; margin-left: calc((100% - 1000px) / 2 + 216px); } }
+@media (min-width: 46.25rem) { .main-content { position: relative; max-width: 900px; padding-top: 2rem; padding-bottom: 2rem; padding-left: 3rem; margin-left: 216px; } }
+@media (min-width: 70rem) { .main-content { padding-left: 2rem; margin-left: calc((100% - 1116px) / 2 + 216px); } }
 
 .js-main-content:focus { outline: none; }
 
