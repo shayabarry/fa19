@@ -20,8 +20,8 @@ description: An embedded Google Calendar displaying the weekly event schedule.
 .fc table {
   margin-bottom: 0;
 }
-</style><!-- 
-<script>
+</style>
+<!-- <script>
 document.addEventListener('DOMContentLoaded', function() {
   new FullCalendar.Calendar(document.getElementById('fullcalendar'), {
     plugins: ['dayGrid', 'timeGrid', 'googleCalendar'],
@@ -50,10 +50,13 @@ document.addEventListener('DOMContentLoaded', function() {
   }).render();
 });
 </script>
- -->
+
  
-<!-- <script src="../assets/js/calendar.js"></script>
+<script src="../assets/js/calendar.js"></script>
 <script src="../assets/js/gcal.js"></script> -->
 
-
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X2luOXF2c2c5cnN2NXIzNWxhNG91ZnJxMnRrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<br>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=berkeley.edu_1lstt6addsnlemmfisn40pbulg%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;color=%233F51B5" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
