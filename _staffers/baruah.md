@@ -2,7 +2,7 @@
 name: Amitav Baruah
 role: Reader
 email: amitav@berkeley.edu
-photo: http://ds100.org/fa19/resources/assets/staff_pics/stepan_babayan.jpg
+photo: http://ds100.org/fa19/resources/assets/staff_pics/amitav_baruah.jpg
 
 ---
 
