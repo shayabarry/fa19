@@ -55,8 +55,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <script src="../assets/js/calendar.js"></script>
 <script src="../assets/js/gcal.js"></script> -->
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X2luOXF2c2c5cnN2NXIzNWxhNG91ZnJxMnRrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+## Discussion, Lab, and Lecture
+
+Discussion sections are in blue, labs are in green, and lectures are in yellow. Click a discussion / lab event to see the different GSIs teaching at that time.
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X2luOXF2c2c5cnN2NXIzNWxhNG91ZnJxMnRrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzcwODN1a205M2ZsbTl0ZWVobnBkZnFwcmFrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X3FzMzRwbWJhb3F1OHE0MGNpa2NjNjg4aWRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%23009688&amp;color=%23E4C441&amp;showTitle=0&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 <br>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=berkeley.edu_1lstt6addsnlemmfisn40pbulg%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;color=%233F51B5" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+## Office Hours
+
+GSI office hours are in blue, and Professor office hours are in pink.
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1XzFsc3R0NmFkZHNubGVtbWZpc240MHBidWxnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X3Y3cThpaXBwcjcydHZtaTkwZTV1MnI3ZTBjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%234285F4&amp;color=%23D81B60&amp;mode=WEEK&amp;title=Office%20Hours%20%E2%80%93%20Data%20100%2C%20Fall%202019&amp;showTitle=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

@@ -9,7 +9,7 @@
   "1": {
     "id": "1",
     "title": "Calendar",
-    "content": "Calendar",
+    "content": "Calendar Discussion, Lab, and Lecture Discussion sections are in blue, labs are in green, and lectures are in yellow. Click a discussion / lab event to see the different GSIs teaching at that time. Office Hours GSI office hours are in blue, and Professor office hours are in pink.",
     "url": "http://localhost:4000/fa19/calendar/",
     "relUrl": "/calendar/"
   },
