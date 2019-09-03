@@ -9,7 +9,7 @@ days:
       "[Probability and Data Design I](https://github.com/DS-100/fa19/raw/master/lecture/lec02/02-data-generation.pptx) ([pdf](https://drive.google.com/open?id=1E4YOODtOjb5tUtatnBmNkKrz3FaVTuy5)) ([webcast](https://www.youtube.com/watch?v=OJFCRhAC788))":
   - date: 2019-09-04
     events:
-      "**Discussion**{: .label } Discussion 2":
+      "**Discussion**{: .label } [Discussion 2](../resources/assets/discussions/disc02.pdf)":
       "Homework 1 due":
   - date: 2019-09-05
     events:
