@@ -6,7 +6,7 @@ days:
       "**Lab**{: .label } No lab this week":
   - date: 2019-09-03
     events:
-      "Probability and Data Design I":
+      "[Probability and Data Design I](https://github.com/DS-100/fa19/raw/master/lecture/lec02/02-data-generation.pptx)":
   - date: 2019-09-04
     events:
       "**Discussion**{: .label } Discussion 2":
