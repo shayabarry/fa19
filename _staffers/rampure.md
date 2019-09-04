@@ -2,7 +2,7 @@
 name: Suraj Rampure
 role: Teaching Assistant
 email: suraj.rampure@berkeley.edu
-website: http://surajrampure.com
+website: http://surajrampure.com/teaching/ds100.html
 photo: http://www.surajrampure.com/resources/pictures/miscircle.png
 discussion: W 3-4PM, Etcheverry 3107
 lab: M 3-4PM, Evans B6
