@@ -13,5 +13,5 @@ days:
       "Homework 1 due":
   - date: 2019-09-05
     events:
-      "[Probability and Data Design II](../resources/assets/lectures/lec03/03-data-generation.pdf) ([webcast](https://www.youtube.com/watch?v=XCZwFnUQ1es))":
+      "[Probability and Data Design II](../resources/assets/lectures/lec03/03-data-generation.pdf) ([annotated](../resources/assets/lectures/lec03/03-data-generation-annotated.pdf)) ([webcast](https://www.youtube.com/watch?v=XCZwFnUQ1es))":
 ---
