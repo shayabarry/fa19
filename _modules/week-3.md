@@ -4,6 +4,7 @@ days:
   - date: 2019-09-09
     events:
       "**Lab**{: .label } Lab 3 (due Sept. 11)":
+      "**Vitamin**{: .label } [Vitamin 3](https://www.gradescope.com/courses/57158/assignments/240805) (due Sept. 9)":
   - date: 2019-09-10
     events:
       "Pandas I":
