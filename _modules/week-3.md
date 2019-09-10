@@ -8,7 +8,7 @@ days:
       "**Homework**{: .label } [Homework 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=hw/hw2) (due Sept. 14)":
   - date: 2019-09-10
     events:
-      "[Pandas I](https://docs.google.com/presentation/d/1FrYg6yd6B-CIgfWLWm4W8vBhfmJ6Qt9dKkN-mlN5AKU/edit?usp=sharing) ([code](https://github.com/DS-100/fa19/tree/master/lecture/lec04))":
+      "[Pandas I](https://docs.google.com/presentation/d/1RjphqhsYezBVklHqPvJvzaunQc0wAojFbZMHmixD8Yw) ([code](https://github.com/DS-100/fa19/tree/master/lecture/lec04))":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
   - date: 2019-09-11
     events:
