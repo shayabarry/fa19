@@ -12,7 +12,7 @@ days:
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
   - date: 2019-09-11
     events:
-      "**Discussion**{: .label } Discussion 3":
+      "**Discussion**{: .label } [Discussion 3](../resources/assets/discussions/disc03.pdf)":
   - date: 2019-09-12
     events:
       "Pandas II":
