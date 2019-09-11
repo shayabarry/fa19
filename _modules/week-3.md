@@ -10,7 +10,7 @@ days:
     events:
       "[Pandas I](https://docs.google.com/presentation/d/1RjphqhsYezBVklHqPvJvzaunQc0wAojFbZMHmixD8Yw) ([webcast](https://www.youtube.com/watch?v=HYfpePyi7Vk)) ([code](https://github.com/DS-100/fa19/tree/master/lecture/lec04))":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
-      "[Intro to Pandas if you've taken Data 8]()"
+      "Intro to Pandas if you've taken Data 8 ([zip](https://github.com/DS-100/fa19/tree/master/lecture/lec04/pandas_for_data8_students.zip))":
   - date: 2019-09-11
     events:
       "**Discussion**{: .label } [Discussion 3](../resources/assets/discussions/disc03.pdf)":
