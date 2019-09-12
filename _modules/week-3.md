@@ -16,6 +16,6 @@ days:
       "**Discussion**{: .label } [Discussion 3](../resources/assets/discussions/disc03.pdf) ([solutions](../resources/assets/discussions/disc03_sol.pdf))":
   - date: 2019-09-12
     events:
-      "[Pandas II](https://docs.google.com/presentation/d/1HfdsSHXCJkUFUmVNTXjel3yx4_WYCfcpDwGi6zcVQEM/edit?usp=sharing)":
+      "[Pandas II](https://docs.google.com/presentation/d/1HfdsSHXCJkUFUmVNTXjel3yx4_WYCfcpDwGi6zcVQEM/edit?usp=sharing) ([code](https://github.com/DS-100/fa19/tree/master/lecture/lec05))":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
 ---
