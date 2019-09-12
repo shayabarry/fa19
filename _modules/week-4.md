@@ -4,6 +4,7 @@ days:
   - date: 2019-09-16
     events:
       "**Lab**{: .label } Lab / Discussion 4":
+      "**Vitamin**{: .label } Vitamin 4 (due Sept. 16)":
   - date: 2019-09-17
     events:
       "Data Cleaning":

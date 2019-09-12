@@ -4,6 +4,7 @@ days:
   - date: 2019-09-30
     events:
       "**Lab**{: .label } Lab 6":
+      "**Vitamin**{: .label } Vitamin 6 (due Sept. 30)":
   - date: 2019-10-01
     events:
       "Case Study":
