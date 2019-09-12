@@ -13,7 +13,7 @@ days:
       "Intro to Pandas if you've taken Data 8 ([zip](https://github.com/DS-100/fa19/tree/master/lecture/lec04/pandas_for_data8_students.zip))":
   - date: 2019-09-11
     events:
-      "**Discussion**{: .label } [Discussion 3](../resources/assets/discussions/disc03.pdf)":
+      "**Discussion**{: .label } [Discussion 3](../resources/assets/discussions/disc03.pdf) ([solutions](../resources/assets/discussions/disc03_sol.pdf))":
   - date: 2019-09-12
     events:
       "Pandas II":
