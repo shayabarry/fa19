@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2019-09-16
     events:
-      "**Lab**{: .label } Lab / Discussion 4":
+      "**Lab**{: .label } Lab 4 (due Sept. 16)":
       "**Vitamin**{: .label } Vitamin 4 (due Sept. 16)":
   - date: 2019-09-17
     events:
@@ -11,7 +11,7 @@ days:
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
   - date: 2019-09-18
     events:
-      "**Discussion**{: .label } Lab / Discussion 4":
+      "**Discussion**{: .label } Discussion 4":
   - date: 2019-09-19
     events:
       "Visualization I":

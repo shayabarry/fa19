@@ -3,7 +3,7 @@ title: Week 5
 days:
   - date: 2019-09-23
     events:
-      "**Lab**{: .label } Lab 5":
+      "**Lab**{: .label } Lab 5 (due Sept. 23)":
       "**Vitamin**{: .label } Vitamin 5 (due Sept. 23)":
   - date: 2019-09-24
     events:
