@@ -3,8 +3,8 @@ title: Week 4
 days:
   - date: 2019-09-16
     events:
-      "**Lab**{: .label } Lab 4 (due Sept. 16)":
-      "**Vitamin**{: .label } Vitamin 4 (due Sept. 16)":
+      "**Lab**{: .label } [Lab 4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=lab/lab04/) (due Sept. 16)":
+      "**Vitamin**{: .label } [Vitamin 4](https://www.gradescope.com/courses/57158/assignments/245564/) (due Sept. 16)":
   - date: 2019-09-17
     events:
       "Data Cleaning":

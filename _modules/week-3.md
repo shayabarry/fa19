@@ -4,7 +4,7 @@ days:
   - date: 2019-09-09
     events:
       "**Lab**{: .label } [Lab 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=lab/lab03/) (due Sept. 11)":
-      "**Vitamin**{: .label } [Vitamin 3](https://www.gradescope.com/courses/57158/assignments/240805) (due Sept. 9)":
+      "**Vitamin**{: .label } [Vitamin 3](https://www.gradescope.com/courses/57158/assignments/240805/) (due Sept. 9)":
       "**Homework**{: .label } [Homework 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=hw/hw2) (due Sept. 14)":
   - date: 2019-09-10
     events:
