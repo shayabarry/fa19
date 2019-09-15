@@ -37,6 +37,10 @@ become part of the history of Data 100 at Berkeley.
 
 Click [here]({{ site.baseurl }}/setup) to read our guide on how to set up our development environment locally (as an alternative to using DataHub).
 
+## Probability Practice
+
+We've compiled a few practice probability problems that we believe may help in understanding the ideas covered in the course. They can be found [here](assets/other/prob_practice.pdf), along with their [solutions](assets/other/prob_practice_solutions.pdf).
+
 ## Web References
 
 As a data scientist you will often need to search for information on various libraries and tools. In this class we will be using several key python libraries. Here are their documentation pages:
