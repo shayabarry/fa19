@@ -8,7 +8,7 @@ days:
       "**Project**{: .label } [Project 1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=proj/proj1/) (due Sept. 24)":
   - date: 2019-09-17
     events:
-      "[Data Cleaning](../resources/assets/lectures/lec06/06-Unboxing-the-Data.pdf)":
+      "[Data Cleaning](../resources/assets/lectures/lec06/06-Unboxing-the-Data.pdf) ([code](https://github.com/DS-100/fa19/tree/master/lecture/lec06))":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
   - date: 2019-09-18
     events:
