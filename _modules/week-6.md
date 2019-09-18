@@ -12,6 +12,4 @@ days:
     events:
       "**Discussion**{: .label } Discussion 6":
   - date: 2019-10-03
-    events:
-      "**Exam**{: .label } Midterm 1 (tentative date)":
 ---
