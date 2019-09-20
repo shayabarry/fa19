@@ -3,8 +3,8 @@ title: Week 5
 days:
   - date: 2019-09-23
     events:
-      "**Lab**{: .label } Lab 5 (due Sept. 23)":
-      "**Vitamin**{: .label } Vitamin 5 (due Sept. 23)":
+      "**Lab**{: .label } [Lab 5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=lab/lab05/) (due Sept. 23)":
+      "**Vitamin**{: .label } [Vitamin 5](https://www.gradescope.com/courses/57158/assignments/251500/) (due Sept. 23)":
   - date: 2019-09-24
     events:
       "Visualization II":
