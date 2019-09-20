@@ -15,6 +15,6 @@ days:
       "**Discussion**{: .label } [Discussion 4](../resources/assets/discussions/disc04.pdf) ([notebook and solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=disc/))":
   - date: 2019-09-19
     events:
-      "[Visualization I](../resources/assets/lectures/lec07/07-EDAandVizAnnotated.pdf)":
+      "[Visualization I](../resources/assets/lectures/lec07/07-EDAandVizAnnotated.pdf) ([webcast](https://www.youtube.com/watch?v=c_6mjPQuFRQ))":
         "[Ch. 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)"
 ---
