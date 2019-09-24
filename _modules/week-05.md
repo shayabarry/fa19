@@ -7,7 +7,7 @@ days:
       "**Vitamin**{: .label } [Vitamin 5](https://www.gradescope.com/courses/57158/assignments/251500/) (due Sept. 23)":
   - date: 2019-09-24
     events:
-      "Visualization II":
+      "[Visualization II](../resources/assets/lectures/lec08/08-VizPrinciples.pdf)":
         "[Ch. 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)"
   - date: 2019-09-25
     events:
