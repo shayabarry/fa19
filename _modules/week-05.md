@@ -11,7 +11,7 @@ days:
         "[Ch. 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)"
   - date: 2019-09-25
     events:
-      "**Discussion**{: .label } Discussion 5":
+      "**Discussion**{: .label } [Discussion 5](../resources/assets/discussions/disc05.pdf)":
   - date: 2019-09-26
     events:
       "Regular Expressions, Working with Text":
