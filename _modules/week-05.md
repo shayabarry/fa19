@@ -12,9 +12,9 @@ days:
   - date: 2019-09-25
     events:
       "**Discussion**{: .label } [Discussion 5](../resources/assets/discussions/disc05.pdf)":
+      "**Homework**{: .label } [Homework 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=hw/hw3) (due Oct. 1)":
   - date: 2019-09-26
     events:
       "Regular Expressions, Working with Text":
         "[Ch. 4](https://www.textbook.ds100.org/ch/04/eda_intro.html), [Ch. 5.3-5.7](https://www.textbook.ds100.org/ch/05/cleaning_structure.html), [Ch. 8](https://www.textbook.ds100.org/ch/08/text_intro.html)"
-      "**Homework**{: .label } [Homework 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=hw/hw3) (due Oct. 1)":
 ---
