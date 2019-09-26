@@ -11,7 +11,7 @@ days:
         "[Ch. 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)"
   - date: 2019-09-25
     events:
-      "**Discussion**{: .label } [Discussion 5](../resources/assets/discussions/disc05.pdf)":
+      "**Discussion**{: .label } [Discussion 5](../resources/assets/discussions/disc05.pdf) ([solutions](../resources/assets/discussions/disc05_sol.pdf))":
       "**Homework**{: .label } [Homework 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=hw/hw3) (due Oct. 1)":
   - date: 2019-09-26
     events:
