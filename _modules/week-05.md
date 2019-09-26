@@ -4,7 +4,7 @@ days:
   - date: 2019-09-23
     events:
       "**Lab**{: .label } [Lab 5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=lab/lab05/) (due Sept. 23)":
-      "**Vitamin**{: .label } [Vitamin 5](https://www.gradescope.com/courses/57158/assignments/251500/) (due Sept. 23)":
+      "**Vitamin**{: .label } [Vitamin 5](https://www.gradescope.com/courses/57158/assignments/251500/) ([solutions](../resources/assets/vitamins/vit05_sol.pdf)):
   - date: 2019-09-24
     events:
       "[Visualization II](../resources/assets/lectures/lec08/08-VizPrinciples.pdf) ([webcast](https://www.youtube.com/watch?v=XSG1dX3pviE))":
