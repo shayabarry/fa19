@@ -10,7 +10,7 @@ days:
       "Dimensionality Reduction and PCA":
   - date: 2019-10-02
     events:
-      "**Discussion**{: .label } Discussion 6":
+      "**Discussion**{: .label } [Discussion 6](../resources/assets/discussions/disc06.pdf)":
   - date: 2019-10-03
     events:
       "Dimensionality Reduction and PCA II":
