@@ -11,7 +11,7 @@ days:
         "[(Optional) PCA Tutorial](https://arxiv.org/pdf/1404.1100.pdf)"
   - date: 2019-10-02
     events:
-      "**Discussion**{: .label } [Discussion 6](../resources/assets/discussions/disc06.pdf)":
+      "**Discussion**{: .label } [Discussion 6](../resources/assets/discussions/disc06.pdf) ([Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa19&urlpath=tree%2Ffa19%2Fdisc%2Fdisc06-interactive%3Dnotbook.ipynb))":
   - date: 2019-10-03
     events:
       "Dimensionality Reduction and PCA II":
