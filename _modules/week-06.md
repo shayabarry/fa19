@@ -11,7 +11,7 @@ days:
         "[(Optional) PCA Tutorial](https://arxiv.org/pdf/1404.1100.pdf)"
   - date: 2019-10-02
     events:
-      "**Discussion**{: .label } [Discussion 6](../resources/assets/discussions/disc06.pdf) ([solutions](../resources/assets/discussions/disc06_sol.pdf)) ([notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa19&urlpath=tree%2Ffa19%2Fdisc%2Fdisc06-interactive%3Dnotbook.ipynb))":
+      "**Discussion**{: .label } [Discussion 6](../resources/assets/discussions/disc06.pdf) ([solutions](../resources/assets/discussions/disc06_sol.pdf)) ([notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa19&urlpath=tree%2Ffa19%2Fdisc%2Fdisc06-interactive-notbook.ipynb))":
   - date: 2019-10-03
     events:
       "[Principal Component Analysis](https://docs.google.com/presentation/d/1ZpeEMuI-obakVM-ntZniyyVZu_2g3ve_izA5-zso05c/edit?usp=sharing) ([webcast](https://www.youtube.com/watch?v=NanKILF8FB8)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa19&subPath=lecture/lec11.zip))":
